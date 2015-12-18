@@ -30,7 +30,7 @@ keystone.init({
 	}).engine,
 	
 	'emails': 'templates/emails',
-	
+	'cloudinary config': 'cloudinary://173591666683724:jbNJ1iSVv6JvyCunGOfWEttuH_0@dtkt8unbh',
 	'auto update': true,
 	'session': true,
 	'auth': true,
