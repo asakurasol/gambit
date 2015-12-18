@@ -25,7 +25,7 @@ build/Release
 
 
 # Ignore .env configuration files
-.env
+
 
 # Ignore .DS_Store files on OS X
 .DS_Store
